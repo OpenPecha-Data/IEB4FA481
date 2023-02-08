@@ -1,0 +1,16 @@
+id: IEB4FA481
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:13:26.707395
+last_modified: 2023-02-08 15:13:26.707503
+source_metadata:
+  title: Mañjuśrīvikrīḍitasūtra
+  language: en
+bases:
+  FE77:
+    base_file: FE77.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

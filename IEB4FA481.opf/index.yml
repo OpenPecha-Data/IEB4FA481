@@ -1,0 +1,103 @@
+id: 77593138553441a2a620331cd1501e7b
+annotation_type: index
+revision: '00001'
+annotations:
+  0c4ecb99e3d94ff0957cdd7775a29581:
+    base: FE77.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 69
+    - title: Preface
+      span:
+        start: 70
+        end: 131
+    - title: Section 1
+      span:
+        start: 132
+        end: 4265
+    - title: Section 2
+      span:
+        start: 4266
+        end: 10687
+    - title: Section 3
+      span:
+        start: 10688
+        end: 34010
+    - title: Section 4
+      span:
+        start: 34011
+        end: 47337
+    - title: Section 5
+      span:
+        start: 47338
+        end: 57598
+    - title: Section 6
+      span:
+        start: 57599
+        end: 60921
+    - title: Section 7
+      span:
+        start: 60922
+        end: 80616
+    - title: Section 8
+      span:
+        start: 80617
+        end: 88526
+    - title: Section 9
+      span:
+        start: 88527
+        end: 91090
+    - title: Section 10
+      span:
+        start: 91091
+        end: 94044
+    - title: Section 11
+      span:
+        start: 94045
+        end: 95027
+    - title: Section 12
+      span:
+        start: 95028
+        end: 98639
+    - title: Section 13
+      span:
+        start: 98640
+        end: 102633
+    - title: Section 14
+      span:
+        start: 102634
+        end: 103709
+    - title: Section 15
+      span:
+        start: 103710
+        end: 107577
+    - title: Section 16
+      span:
+        start: 107578
+        end: 110173
+    - title: Section 17
+      span:
+        start: 110174
+        end: 115576
+    - title: Section 18
+      span:
+        start: 115577
+        end: 117796
+    - title: Section 19
+      span:
+        start: 117797
+        end: 119805
+    - title: Section 20
+      span:
+        start: 119806
+        end: 122479
+    - title: Section 21
+      span:
+        start: 122480
+        end: 123309
+    - title: Colophon
+      span:
+        start: 123310
+        end: 123320
